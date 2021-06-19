@@ -1,0 +1,15 @@
+.header__logo {
+    text-decoration: none;
+    margin-right: 93px;
+    color: $colorBlue;
+    font-family: $fontLogo;
+    font-size: 26px;
+    line-height: 1.19;
+
+    &--accent {
+        color: #000000;
+    }
+}
+.footer__logo--accent {
+    color: $colorWhite;
+}
